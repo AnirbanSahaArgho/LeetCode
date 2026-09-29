@@ -6,6 +6,7 @@ My competitive programming solutions from LeetCode
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnirbanSahaArgho/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AnirbanSahaArgho/LeetCode/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
@@ -27,4 +28,12 @@ My competitive programming solutions from LeetCode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnirbanSahaArgho/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnirbanSahaArgho/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnirbanSahaArgho/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

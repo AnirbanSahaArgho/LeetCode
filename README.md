@@ -24,6 +24,7 @@ My competitive programming solutions from LeetCode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnirbanSahaArgho/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/AnirbanSahaArgho/LeetCode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,4 +37,12 @@ My competitive programming solutions from LeetCode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnirbanSahaArgho/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnirbanSahaArgho/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnirbanSahaArgho/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
